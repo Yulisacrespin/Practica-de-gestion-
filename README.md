@@ -2,6 +2,26 @@
 
 ##### Con este Crud aprenderas a realizar las operaciones básicas como: crear, leer, actualizar y eliminar registros en una base de datos MySQL, también ofrece la posibilidad de cargar datos desde un archivo Excel en la base de datos MySQL, así como exportar registros de la base de datos a archivos Excel, entre muchas cosas mas.
 
+
+#### Resultado final
+
+##### Formulario para registrar Empleado
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/registrar-empleado-con-django-crud-urian-viera.png)
+
+##### Lista de Empleados
+
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/lista-de-empleados-crud-django-urian-viera.png)
+
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/lista-de-registros-crud-django-urian-viera.png)
+
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/crud-django-mysql-editar-empleado-urian-viera.png)
+
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/crud-django-mysql-detalles-del-empleado-urian.png)
+
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/crud-django-reporte-en-excel-urian-viera.png)
+
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/crud-django-mysql-cargar-masiva-de-registros-urian-viera.png)
+
 1.  Crear un entorno virtual, hay muchas formas
 
         Opción 1: Crear entorno virtual con el paquete virtualenv
@@ -146,25 +166,6 @@
 
         Nota: para instalar los paquetes solo basta ejecutar
         pip install -r requirements.txt
-
-#### Resultado final
-
-##### Formulario para registrar Empleado
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/registrar-empleado-con-django-crud-urian-viera.png)
-
-##### Lista de Empleados
-
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/lista-de-empleados-crud-django-urian-viera.png)
-
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/lista-de-registros-crud-django-urian-viera.png)
-
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/crud-django-mysql-editar-empleado-urian-viera.png)
-
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/crud-django-mysql-detalles-del-empleado-urian.png)
-
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/crud-django-reporte-en-excel-urian-viera.png)
-
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/crud-django-mysql-cargar-masiva-de-registros-urian-viera.png)
 
 ### Expresiones de Gratitud 🎁
 
