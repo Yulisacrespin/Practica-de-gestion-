@@ -64,12 +64,8 @@ WSGI_APPLICATION = 'project_core.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',  # ENGINE es motor de BD
-        'NAME': 'bd_django_mysql',
-                'USER': 'root',
-                'PASSWORD': '',
-                'HOST': '127.0.0.1',
-                'PORT': '3306',
+        'ENGINE': 'django.db.backends.sqlite3',  # Cambiamos a SQLite
+        'NAME': BASE_DIR / 'db.sqlite3',         # Archivo de la base de datos
     }
 }
 
